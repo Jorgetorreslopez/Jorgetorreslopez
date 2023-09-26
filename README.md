@@ -1,5 +1,5 @@
 <h1 align="center">Hi (but in spanish) 👋, I'm Jorge</h1>
-<h3 align="left">I’m a full-stack software engineer dedicated to enhancing software systems, with a steadfast commitment to crafting user experiences that are not only enjoyable and intuitive but also exceptionally efficient. My passion lies in the art of designing visually appealing web interfaces while ensuring seamless and user-friendly functionality through meticulously structured, scalable code. Every technical challenge that comes my way is an opportunity to innovate, making the journey of problem-solving not just rewarding but genuinely exhilarating. </h3>
+<h3 align="left">Hello (in Spanish), I'm a full-stack software engineer who incorporates business and user needs to create visually captivating web interfaces. I bring an out of the box approach to problem-solving, guided by the question, "Would I use this?" Every technical challenge that comes my way is an opportunity to innovate, making the journey of problem-solving genuinely exhilarating.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgetorreslopez&label=Profile%20views&color=0e75b6&style=flat" alt="jorgetorreslopez" /> </p>
 
